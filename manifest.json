@@ -1,0 +1,20 @@
+{
+  "name": "Modus Operandi",
+  "short_name": "Modus Operandi",
+  "start_url": "/modus-operandi/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/0a0a0f/e8e8f0?text=MO",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/0a0a0f/e8e8f0?text=MO",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
